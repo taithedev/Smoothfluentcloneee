@@ -1,24 +1,24 @@
 <p align="left">
-  <a href="https://github.com/StyearX/Fluent-modded/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/StyearX/Fluent-modded" />
+  <a href="https://github.com/taithedev/Smoothfluentcloneee/graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/taithedev/Smoothfluentcloneee" />
   </a>
-  <a href="https://github.com/StyearX/Fluent-modded/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/StyearX/Fluent-modded?color=0088ff" />
+  <a href="https://github.com/taithedev/Smoothfluentcloneee/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/taithedev/Smoothfluentcloneee?color=0088ff" />
   </a>
-  <a href="https://github.com/StyearX/Fluent-modded/pulls">
-    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/StyearX/Fluent-modded?color=0088ff" />
+  <a href="https://github.com/taithedev/Smoothfluentcloneee/pulls">
+    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/taithedev/Smoothfluentcloneee?color=0088ff" />
   </a>
-  <a href="https://github.com/StyearX/Fluent-modded/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/StyearX/Fluent-modded?style=flat" />
+  <a href="https://github.com/taithedev/Smoothfluentcloneee/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/taithedev/Smoothfluentcloneee?style=flat" />
   </a>
-  <a href="https://github.com/StyearX/Fluent-modded/network/members">
-    <img alt="Forks" src="https://img.shields.io/github/forks/StyearX/Fluent-modded?style=flat" />
+  <a href="https://github.com/taithedev/Smoothfluentcloneee/network/members">
+    <img alt="Forks" src="https://img.shields.io/github/forks/taithedev/Smoothfluentcloneee?style=flat" />
   </a>
-  <a href="https://github.com/StyearX/Fluent-modded">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/StyearX/Fluent-modded" />
+  <a href="https://github.com/taithedev/Smoothfluentcloneee">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/taithedev/Smoothfluentcloneee" />
   </a>
-  <a href="https://github.com/StyearX/Fluent-modded">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/StyearX/Fluent-modded" />
+  <a href="https://github.com/taithedev/Smoothfluentcloneee">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/taithedev/Smoothfluentcloneee" />
   </a>
 </p>
 
@@ -28,15 +28,28 @@
 <img src="Assets/Theme1.png" alt="fluent">
 
 
-# FluentModded
+# SmoothFluentCloneee
 
-A modified version of the [Fluent](https://github.com/dawid-scripts/Fluent) UI library for Roblox, extended with extra themes,multi-pack icon support, and quality-of-life improvements.
+An improved Roblox Fluent-style UI library focused on smoother interactions, safer state handling, acrylic effects, extra themes, multi-pack icon support, and quality-of-life improvements.
+
+> This project builds on the Fluent ecosystem and keeps the original project credits below. It is not affiliated with Roblox or the original Fluent authors.
 
 ---
 
+## Build
+
+Install the tools from `aftman.toml`, then run:
+
+```bash
+pnpm install
+pnpm run check
+```
+
+The generated bundled library is written to `dist/main.lua`.
+
 ## License
 
-MIT — [LICENSE](https://github.com/StyearX/Fluent-modded/blob/main/LICENSE)
+MIT — [LICENSE](https://github.com/taithedev/Smoothfluentcloneee/blob/main/LICENSE)
 
 ---
 
