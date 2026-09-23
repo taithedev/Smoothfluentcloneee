@@ -1,14 +1,15 @@
 {
-  "name": "FluentProlibrary",
-  "version": "1.6.0",
-  "description": "modded Versions of fluent Library and Fluent plus with more features",
+  "name": "smoothfluentcloneee",
+  "version": "1.6.1",
+  "description": "SmoothFluentCloneee — an improved Roblox Fluent-style UI library with smoother interaction, themes, acrylic effects, and quality-of-life fixes.",
   "main": "init.lua",
   "scripts": {
     "rojo": "mkdirp dist && rojo build -o dist/main.lua",
-    "bundle": "pnpm run rojo && lune build"
+    "bundle": "pnpm run rojo && lune build",
+    "check": "pnpm run rojo && pnpm run bundle"
   },
   "keywords": [],
-  "author": "dawid,StyearX,Vraigos",
+  "author": "taithedev, StyearX, Vraigos, dawid-scripts",
   "license": "MIT",
   "devDependencies": {
     "mkdirp": "^3.0.1"
